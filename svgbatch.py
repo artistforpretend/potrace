@@ -1,3 +1,6 @@
+# This script assumes Potrace is installed and a system path is created where
+# potrace exists
+
 import os
 from pathlib import Path
 
