@@ -7,5 +7,5 @@ website, or graphic novels/webtoons at no fiscal cost.
 
 This project has no architectural structure. This is a learning project to program
 any part of the process that can be done by a computer to lighten the tedious/manual
-portion of creating a handwritten font. So artist can focus on design and/or
+portion of creating a handwritten font, so artist can focus on design and/or
 hand-calligraphy.
